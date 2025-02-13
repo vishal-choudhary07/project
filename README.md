@@ -1,2 +1,2 @@
 # first project
-this project crated in local sysytem
+this project crated in local sysytem..
